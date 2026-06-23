@@ -1,5 +1,5 @@
 # Snake Game
-A Classic Snake game built using python annd pygame
+A Classic Snake game built using python and pygame
 
 ## Features
 - Snake Movement
